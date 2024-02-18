@@ -1,0 +1,12 @@
+C:\Users\Niki\Desktop\test\URLShortenerData\bin\Debug\net6.0\URLShortenerData.deps.json
+C:\Users\Niki\Desktop\test\URLShortenerData\bin\Debug\net6.0\URLShortenerData.dll
+C:\Users\Niki\Desktop\test\URLShortenerData\bin\Debug\net6.0\URLShortenerData.pdb
+C:\Users\Niki\Desktop\test\URLShortenerData\obj\Debug\net6.0\URLShortenerData.csproj.AssemblyReference.cache
+C:\Users\Niki\Desktop\test\URLShortenerData\obj\Debug\net6.0\URLShortenerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Niki\Desktop\test\URLShortenerData\obj\Debug\net6.0\URLShortenerData.AssemblyInfoInputs.cache
+C:\Users\Niki\Desktop\test\URLShortenerData\obj\Debug\net6.0\URLShortenerData.AssemblyInfo.cs
+C:\Users\Niki\Desktop\test\URLShortenerData\obj\Debug\net6.0\URLShortenerData.csproj.CoreCompileInputs.cache
+C:\Users\Niki\Desktop\test\URLShortenerData\obj\Debug\net6.0\URLShortenerData.dll
+C:\Users\Niki\Desktop\test\URLShortenerData\obj\Debug\net6.0\refint\URLShortenerData.dll
+C:\Users\Niki\Desktop\test\URLShortenerData\obj\Debug\net6.0\URLShortenerData.pdb
+C:\Users\Niki\Desktop\test\URLShortenerData\obj\Debug\net6.0\ref\URLShortenerData.dll
